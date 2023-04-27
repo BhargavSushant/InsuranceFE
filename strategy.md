@@ -1,6 +1,5 @@
-First, I need to install Node.js on my computer to create a new React project. I can download and install Node.js from its official website: https://nodejs.org/en/.
-
-Then, I'll install create-react-app, which is a command-line tool that helps me quickly set up a new React project. I'll open my terminal and run the following command:
+1. Install node.js . 
+2. Install create-react-app.
 npm install -g create-react-app
 
 Next, I'll create a new React project using create-react-app. I'll navigate to the directory where I want to create my project and run the following command
